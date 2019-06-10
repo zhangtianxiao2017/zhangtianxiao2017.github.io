@@ -6028,8 +6028,10 @@ body.no-sidebar .sidebar {
 }
 
 .category-list-child {
-  padding-left: 15px;
+  padding-left: 15px !important;  
 }
+
+
 
 .recent-post-list li + li {
   margin-top: 15px;
@@ -9208,3 +9210,4 @@ body.okayNav-loaded {
     max-height: 200px;
   }
 }
+

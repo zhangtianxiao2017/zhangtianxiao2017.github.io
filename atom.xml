@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangtianxiao2017.github.io/"/>
-  <updated>2019-06-09T12:28:48.367Z</updated>
+  <updated>2019-06-10T13:09:55.905Z</updated>
   <id>https://zhangtianxiao2017.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>类分级测试</title>
+    <link href="https://zhangtianxiao2017.github.io/2019/06/10/%E7%B1%BB%E5%88%86%E7%BA%A7%E6%B5%8B%E8%AF%95/"/>
+    <id>https://zhangtianxiao2017.github.io/2019/06/10/类分级测试/</id>
+    <published>2019-06-10T13:08:29.000Z</published>
+    <updated>2019-06-10T13:09:55.905Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Diary" scheme="https://zhangtianxiao2017.github.io/categories/Diary/"/>
+    
+      <category term="TestChildCategories" scheme="https://zhangtianxiao2017.github.io/categories/Diary/TestChildCategories/"/>
+    
+      <category term="第三级分类测试" scheme="https://zhangtianxiao2017.github.io/categories/Diary/TestChildCategories/%E7%AC%AC%E4%B8%89%E7%BA%A7%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>FirstTestBlog</title>
     <link href="https://zhangtianxiao2017.github.io/2019/06/09/FirstTestBlog/"/>
     <id>https://zhangtianxiao2017.github.io/2019/06/09/FirstTestBlog/</id>
     <published>2019-06-09T12:26:52.000Z</published>
-    <updated>2019-06-09T12:28:48.367Z</updated>
+    <updated>2019-06-10T08:48:15.967Z</updated>
     
     <content type="html"><![CDATA[<h1 id="First-Test-Blog"><a href="#First-Test-Blog" class="headerlink" title="First Test Blog"></a>First Test Blog</h1>]]></content>
     
@@ -35,6 +55,8 @@
     </summary>
     
       <category term="Diary" scheme="https://zhangtianxiao2017.github.io/categories/Diary/"/>
+    
+      <category term="TestChildCategories" scheme="https://zhangtianxiao2017.github.io/categories/Diary/TestChildCategories/"/>
     
     
       <category term="PS3" scheme="https://zhangtianxiao2017.github.io/tags/PS3/"/>
