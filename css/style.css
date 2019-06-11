@@ -6031,6 +6031,15 @@ body.no-sidebar .sidebar {
   padding-left: 15px !important;  
 }
 
+.category-list-item before{
+  color: #ccc;
+  content: ">";
+  font-size: 12px;
+  margin-right: 6px;
+  -webkit-transition: 0.2s ease;
+  transition: 0.2s ease;
+}
+
 
 
 .recent-post-list li + li {
