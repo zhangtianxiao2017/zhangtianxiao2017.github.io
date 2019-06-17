@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zhangtianxiao2017.github.io/"/>
-  <updated>2019-06-10T13:09:55.905Z</updated>
+  <updated>2019-06-15T09:26:56.801Z</updated>
   <id>https://zhangtianxiao2017.github.io/</id>
   
   <author>
@@ -17,51 +17,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>类分级测试</title>
-    <link href="https://zhangtianxiao2017.github.io/2019/06/10/%E7%B1%BB%E5%88%86%E7%BA%A7%E6%B5%8B%E8%AF%95/"/>
-    <id>https://zhangtianxiao2017.github.io/2019/06/10/类分级测试/</id>
-    <published>2019-06-10T13:08:29.000Z</published>
-    <updated>2019-06-10T13:09:55.905Z</updated>
+    <title>测试</title>
+    <link href="https://zhangtianxiao2017.github.io/2019/06/15/6%E6%9C%88%E7%AC%94%E8%AE%B0/"/>
+    <id>https://zhangtianxiao2017.github.io/2019/06/15/6月笔记/</id>
+    <published>2019-06-15T09:25:54.768Z</published>
+    <updated>2019-06-15T09:26:56.801Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="Diary" scheme="https://zhangtianxiao2017.github.io/categories/Diary/"/>
-    
-      <category term="TestChildCategories" scheme="https://zhangtianxiao2017.github.io/categories/Diary/TestChildCategories/"/>
-    
-      <category term="第三级分类测试" scheme="https://zhangtianxiao2017.github.io/categories/Diary/TestChildCategories/%E7%AC%AC%E4%B8%89%E7%BA%A7%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>FirstTestBlog</title>
-    <link href="https://zhangtianxiao2017.github.io/2019/06/09/FirstTestBlog/"/>
-    <id>https://zhangtianxiao2017.github.io/2019/06/09/FirstTestBlog/</id>
-    <published>2019-06-09T12:26:52.000Z</published>
-    <updated>2019-06-10T08:48:15.967Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="First-Test-Blog"><a href="#First-Test-Blog" class="headerlink" title="First Test Blog"></a>First Test Blog</h1>]]></content>
+    <content type="html"><![CDATA[<h3 id="6-12-教育校责一般性批改"><a href="#6-12-教育校责一般性批改" class="headerlink" title="6.12 教育校责一般性批改"></a>6.12 教育校责一般性批改</h3><h6 id="批改类型"><a href="#批改类型" class="headerlink" title="批改类型"></a>批改类型</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">//1、责任险批单类型</span><br><span class="line">ENDORS_TYPE_01(&quot;01&quot;, &quot;一般性批改&quot;),</span><br><span class="line">ENDORS_TYPE_02(&quot;02&quot;, &quot;批减(删减人员)&quot;),</span><br><span class="line">ENDORS_TYPE_03(&quot;03&quot;, &quot;批加(新增人员)&quot;),</span><br><span class="line">ENDORS_TYPE_04(&quot;04&quot;, &quot;批退(全单退保)&quot;),</span><br><span class="line">ENDORS_TYPE_05(&quot;05&quot;, &quot;协议批加&quot;),</span><br><span class="line">ENDORS_TYPE_06(&quot;06&quot;, &quot;协议批减&quot;),</span><br><span class="line">ENDORS_TYPE_07(&quot;07&quot;, &quot;企业信息变更&quot;),</span><br><span class="line">ENDORS_TYPE_08(&quot;08&quot;, &quot;分社变更&quot;),</span><br><span class="line">ENDORS_TYPE_09(&quot;09&quot;, &quot;经营资格范围变更&quot;),</span><br><span class="line">// 教育</span><br><span class="line">ENDORS_TYPE_10(&quot;10&quot;, &quot;替换人员&quot;),</span><br><span class="line">ENDORS_TYPE_11(&quot;11&quot;, &quot;附加被保险人全加&quot;),</span><br><span class="line">ENDORS_TYPE_12(&quot;12&quot;, &quot;附加被保险人全减&quot;),</span><br><span class="line">ENDORS_TYPE_13(&quot;13&quot;, &quot;新增附加派遣教师&quot;),</span><br><span class="line">ENDORS_TYPE_14(&quot;14&quot;, &quot;删减附加派遣教师&quot;),</span><br></pre></td></tr></table></figure><hr><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line">教育原型:</span><br><span class="line">https://org.modao.cc/app/7047b11c2c09105e3b99c73df54e0fa34e57b5dc#screen=s7B1D8867BA1555468735229</span><br><span class="line"></span><br><span class="line">教育校责测试数据：</span><br><span class="line">投保单号：TB201906121920139182</span><br><span class="line">投保单id：1660688859215958016</span><br><span class="line">订单id：1660688859215958113</span><br><span class="line">批单id: 1660688859215958114</span><br><span class="line">policyNo:test201906040040</span><br><span class="line"></span><br><span class="line">教育实责  企业投保跟学校投保</span><br><span class="line"></span><br><span class="line">校责险一般性批改保单入库时保单号丢失</span><br><span class="line"></span><br><span class="line">1. 和教育联调校责险一般性批改</span><br><span class="line">2. 修改教育一般性批改报文</span><br><span class="line"></span><br><span class="line">1. 和教育联调一般性批改</span><br><span class="line">2. 教育渠道添加通过保单号查询批单信息接口</span><br><span class="line"></span><br><span class="line">1. 完善教育通过保单号查询批单信息接口</span><br><span class="line">2. 配置云南食品险的批改类型</span><br></pre></td></tr></table></figure><h6 id="教育批单流程"><a href="#教育批单流程" class="headerlink" title="教育批单流程"></a>教育批单流程</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line"></span><br></pre></td></tr></table></figure><h6 id="教育渠道批单状态"><a href="#教育渠道批单状态" class="headerlink" title="教育渠道批单状态"></a>教育渠道批单状态</h6><blockquote><p>批单状态：00-已提交、01 - 待复核、02 -待出单、03 - 已出单、04 -出单失败、05 -待审核、06-审核失败、08-复核失败、09-批单申请表已上传(特设),10-单证待上传,99-删除</p></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">1、批单申请提交后，批单状态为“已保存”；</span><br><span class="line">2、客户自行下载批单申请用印，并将扫描件上传教保网，批单状态为“已提交”；</span><br><span class="line">3、分支机构客户经理审核批单盖章扫描件，审核通过，批单状态为“已复核”，审核不通过，客户重新上传；</span><br><span class="line">4、若涉及保费增加，则需客户上传单证（汇款凭证/保费延期支付申请），上传后批单状态为“待审核”；分支机构客户经理审核单证，审核通过，批单状态为“待出单”，审核不通过，可重新上传；</span><br><span class="line">5、保险公司登录教保网录入批单号及出单日期后，批单状态为“已出单”。</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">graph TD</span><br><span class="line">    00已保存 --&gt;|客户上传影印文件| 01待复核</span><br><span class="line">    01待复核 --&gt;|分支机构客户经理审核批单盖章扫描件 通过 涉及保费增加| 10单证待上传 </span><br><span class="line">    01待复核 --&gt;|分支机构客户经理审核批单盖章扫描件 通过 不涉及保费| 02待出单</span><br><span class="line">    01待复核 --&gt;|分支机构客户经理审核批单盖章扫描件 不通过| 00已保存 </span><br><span class="line">    10单证待上传 --&gt;|客户上传单证 汇款凭证/保费延期支付申请| 06待审核</span><br><span class="line">    06待审核 --&gt;|分支机构客户经理审核单证 审核通过|02待出单</span><br><span class="line">    06待审核 --&gt;|分支机构客户经理审核单证 审核不通过|10单证待上传</span><br><span class="line">    02待出单 --&gt;|保险公司登录教保网录入批单号及出单日期|03已出单</span><br></pre></td></tr></table></figure><h6 id="保单中心表关系"><a href="#保单中心表关系" class="headerlink" title="保单中心表关系"></a>保单中心表关系</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">graph TD</span><br><span class="line">    批单主表:t_endorsement_info --&gt; |订单id orderId| 订单表:t_bus_order</span><br><span class="line">    投保单:t_bus_application_form --&gt; |批单id | 批单主表:t_endorsement_info</span><br><span class="line">    被保人:t_bus_insured --&gt; |投保单id t_bus_application_form_id| 投保单:t_bus_application_form</span><br><span class="line">    被保人:t_bus_insured --&gt;|t_bus_party_id| 参与方:t_bus_party</span><br><span class="line">    参与方:t_bus_party --&gt;|party_type:00| 法人企业:t_bus_corporation</span><br><span class="line">    参与方:t_bus_party --&gt;|party_type:01| 自然人:t_bus_human</span><br></pre></td></tr></table></figure><h6 id="6-13-代办"><a href="#6-13-代办" class="headerlink" title="6.13 代办"></a>6.13 代办</h6><ul><li><input checked disabled type="checkbox"> 教育根据保单号查询批单中批改的人数 </li><li><input checked disabled type="checkbox"> 教育校责一般性批改联调<ul><li><input disabled type="checkbox"> 校责险一般性批改保单入库时保单号丢失</li></ul></li><li><input disabled type="checkbox"> 教育实责中企业跟学校投保 批改类型的修改</li><li><input checked disabled type="checkbox"> 教育批单列表查询接口修改</li><li><input disabled type="checkbox"> 教育批单影印件上传接口</li></ul><h6 id="人数扩展字段查询"><a href="#人数扩展字段查询" class="headerlink" title="人数扩展字段查询"></a>人数扩展字段查询</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line">policyNo: test201906040040</span><br><span class="line">批单id: 1661940859362607105</span><br><span class="line">投保单id: 1661940859362607106</span><br><span class="line"></span><br><span class="line">被保人id: 1661940876542476294</span><br><span class="line">中间: t_bus_part id 1661940859362607113</span><br><span class="line"></span><br><span class="line">人数扩展字段:</span><br><span class="line">S_O_000020 在册学生数</span><br><span class="line">S_O_000021 投保学生数</span><br><span class="line">S_O_000023 投保派遣教师人数</span><br><span class="line">S_O_000024 附加被保险人数</span><br><span class="line">S_O_000025 附加实习无过失责任人数</span><br><span class="line">S_O_000027 投保人数</span><br><span class="line">S_O_000030 附加校方无过失责任险人数</span><br><span class="line">S_I_000163 投保教师人数</span><br></pre></td></tr></table></figure><h6 id="云南险种"><a href="#云南险种" class="headerlink" title="云南险种"></a>云南险种</h6><blockquote><p>云南4个险种有一般性批改，新增人员，删减人员，替换人员，全单退保 ，<br>云南地区统保如果是云南校责险，且投保单没有投保附加险， 做批单是时候可以选择附加险，<br>其他云南险种没有附加险，<br>云南食品险没有替换人员类型</p></blockquote><ol><li>云南食品险<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">产品编码: 19PR233356</span><br><span class="line">批改类型: </span><br><span class="line">一般性批改 01，新增人员 03，删减人员02，全单退保04</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">测试数据：</span><br><span class="line">TB201906141133182811</span><br></pre></td></tr></table></figure></li></ol><h6 id="山东"><a href="#山东" class="headerlink" title="山东"></a>山东</h6><ol><li>山东省校（园）方责任保险项目<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">产品编码:19PR372456</span><br><span class="line">批改类型:一般信息批改、新增人员、删减人员、替换人员、全单退保  ---保单注销</span><br><span class="line"></span><br><span class="line">测试批单号: ****51</span><br></pre></td></tr></table></figure></li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;First-Test-Blog&quot;&gt;&lt;a href=&quot;#First-Test-Blog&quot; class=&quot;headerlink&quot; title=&quot;First Test Blog&quot;&gt;&lt;/a&gt;First Test Blog&lt;/h1&gt;
+        &lt;h3 id=&quot;6-12-教育校责一般性批改&quot;&gt;&lt;a href=&quot;#6-12-教育校责一般性批改&quot; class=&quot;headerlink&quot; title=&quot;6.12 教育校责一般性批改&quot;&gt;&lt;/a&gt;6.12 教育校责一般性批改&lt;/h3&gt;&lt;h6 id=&quot;批改类型&quot;&gt;&lt;a href=&quot;#批
       
     
     </summary>
     
-      <category term="Diary" scheme="https://zhangtianxiao2017.github.io/categories/Diary/"/>
-    
-      <category term="TestChildCategories" scheme="https://zhangtianxiao2017.github.io/categories/Diary/TestChildCategories/"/>
+      <category term="Work" scheme="https://zhangtianxiao2017.github.io/categories/Work/"/>
     
     
-      <category term="PS3" scheme="https://zhangtianxiao2017.github.io/tags/PS3/"/>
-    
-      <category term="Games" scheme="https://zhangtianxiao2017.github.io/tags/Games/"/>
+      <category term="Work" scheme="https://zhangtianxiao2017.github.io/tags/Work/"/>
     
   </entry>
   
@@ -86,9 +62,9 @@
       <category term="Hello 电影" scheme="https://zhangtianxiao2017.github.io/categories/Hello-%E7%94%B5%E5%BD%B1/"/>
     
     
-      <category term="Games" scheme="https://zhangtianxiao2017.github.io/tags/Games/"/>
-    
       <category term="视频" scheme="https://zhangtianxiao2017.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+      <category term="Games" scheme="https://zhangtianxiao2017.github.io/tags/Games/"/>
     
   </entry>
   
